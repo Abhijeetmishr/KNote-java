@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "uploadDir",
+    "type": "java.lang.String",
+    "description": "A description for 'uploadDir'"
+  },
+  {
+    "name": "uploadDir",
+    "type": "java.lang.String",
+    "description": "A description for 'uploadDir'"
+  }
+]}

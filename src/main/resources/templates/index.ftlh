@@ -27,8 +27,7 @@
     <#if notes??>
         <#list notes as note>
             <li class="mv3 bb bw2 b--light-yellow bg-washed-yellow ph4 pv2"><p class="measure"></p>
-                <p>${note}</p>
-                <p></p>
+                <p><#noautoesc>${note}</#noautoesc></p>
             </li>
         <#else>
             <p class="lh-copy f6">You don't have any notes yet.</p>
